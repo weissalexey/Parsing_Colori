@@ -1,4 +1,3 @@
-/data/*.csv
-/data/*.html
-*.json
 *.html
+*.json
+*.csv
